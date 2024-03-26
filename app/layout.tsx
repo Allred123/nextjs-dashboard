@@ -6,9 +6,6 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  console.log(1111111111);
-
-  console.log('children', children);
 
   return (
     <html lang="en">
